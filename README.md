@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ai
 - 📫 How to reach me . Ayyanar0027@gmail.com
 - 😄 Pronouns: Keras
-- ⚡ Fun fact: 44
+- ⚡ Fun fact: 08
 
 <!---
 Ayyanar23/Ayyanar23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
